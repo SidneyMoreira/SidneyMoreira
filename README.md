@@ -21,7 +21,8 @@ ou <a href="mailto:sidmoreira.hp@gmail.com"><b>email</b></a> me.
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/SidneyMoreira/SidneyMoreira.svg)](http://hits.dwyl.com/SidneyMoreira/SidneyMoreira)
+<!--[![HitCount](http://hits.dwyl.com/SidneyMoreira/SidneyMoreira.svg)](http://hits.dwyl.com/SidneyMoreira/SidneyMoreira) -->
+![Profile views](https://gpvc.arturio.dev/SidneyMoreira)
 
 <i>Follow me around the web:</i><br>
 
