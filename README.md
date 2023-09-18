@@ -18,7 +18,8 @@ ou <a href="mailto:sidmoreira.hp@gmail.com"><b>email</b></a> me.
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SidneyMoreira&theme=tokyonight&repo=github-readme-stats)](https://github.com/SidneyMoreira/github-readme-stats) 
 
-[![Sidney Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyMoreira&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&layout=compact)](https://github.com/SidneyMoreira/github-readme-stats)
+![Sidney Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidneyMoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=20&layout=compact)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyMoreira&theme=tokyonight&layout=compact)](https://github.com/SidneyMoreira/github-readme-stats)
 
 
